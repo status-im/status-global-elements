@@ -1,0 +1,36 @@
+{
+  "name": "status-general",
+  "version": "0.1.0",
+  "description": "Status General",
+  "main": "",
+  "scripts": {
+    "dev": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NistorCristian/status-general.git"
+  },
+  "author": {
+    "name": "Nistor Cristian",
+    "email": "contact@nistorcristian.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NistorCristian/status-general/issues"
+  },
+  "homepage": "https://github.com/NistorCristian/status-general",
+  "devDependencies": {
+    "@babel/core": "^7.0.1",
+    "@babel/preset-env": "^7.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-header-comment": "^0.4.0",
+    "gulp-minify": "^3.1.0",
+    "gulp-resolve-dependencies": "^2.2.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-token-replace": "^1.1.2",
+    "node-sass": "^4.9.4"
+  }
+}
